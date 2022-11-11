@@ -11,6 +11,7 @@ public class SpringBootFirstWebApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		//Test class
 	}
 
 }
